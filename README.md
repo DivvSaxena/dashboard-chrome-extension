@@ -4,7 +4,6 @@ This Chrome extension is a custom clone of the popular "Momentum" extension, bui
 
 ## Features
 
-- **Customized Dashboard**: Replace your default new tab page with a personalized dashboard.
 - **Time and Date**: Displays the current time and date.
 - **Location-Based Weather**: Utilizes your location (with permission) to fetch real-time weather and climate conditions.
 - **Daily Inspirational Quote**: Fetches and displays a motivational quote to kickstart your day.
